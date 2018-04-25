@@ -5,7 +5,7 @@
 你也可以找到一个关于如何构建并运行自己的最终幻想14 1.0服务器的说明，并且承载到目前已经开发的内容上。
 [![FFXIV](http://mydcs.f3322.net:11002/server/../Public/Uploads/2018-03-15/5aaa7f92e7be2.png "FFXIV")](http://mydcs.f3322.net:11002/server/../Public/Uploads/2018-03-15/5aaa7f92e7be2.png "FFXIV")
 
-##目录
+## 目录
 - [从这里开始入门](http://mydcs.f3322.net:11002/web/#/1?page_id=3 "构建项目")
 - [功能状态](http://mydcs.f3322.net:11002/web/#/1?page_id=4 "功能状态")
 - [常见问题解答](http://mydcs.f3322.net:11002/web/#/1?page_id=5 "常见问题解答")
@@ -15,7 +15,7 @@
 
 > **源代码地址**：https://bitbucket.org/Ioncannon/ffxiv-classic-server.git
 
-##游戏引擎规格
+## 游戏引擎规格
 **游戏数据**
 - [区域ID](http://mydcs.f3322.net:11002/web/#/1?page_id=6 "区域ID")
 - [天气ID](http://mydcs.f3322.net:11002/web/#/1?page_id=8 "天气ID")
